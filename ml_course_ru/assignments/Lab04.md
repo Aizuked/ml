@@ -38,13 +38,3 @@
 21. Smartphone-Based Recognition of Human Activities and Postural Transitions
 22. Indoor User Movement Prediction from RSS data
 23. Spambase
-
-
-
-
-
-
-
-
-
-
